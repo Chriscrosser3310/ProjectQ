@@ -444,9 +444,8 @@ def run_setup(with_cext):
         author_email='info@projectq.ch',
         url='http://www.projectq.ch',
         project_urls={
-            'Documentation': 'https://projectq.readthedocs.io/en/latest/',
-            'Issue Tracker':
-            'https://github.com/ProjectQ-Framework/ProjectQ/',
+            'Documentation': 'https://hiq-projectq.readthedocs.io/en/latest/',
+            'Issue Tracker': 'https://github.com/Huawei-HiQ/ProjectQ/',
         },
         description=('ProjectQ - An open source software framework for '
                      'quantum computing'),
